@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antônio Neto
 - 👀 I’m interested in programation
-- 🌱 I’m currently learning Java, Kotlin and Typescript.
+- 🌱 I’m currently learning Java, Kotlin, C# and Typescript.
 - 📫 How can you find me: neto1171995@gmail.com
 - 🤝 My linkedin is: https://www.linkedin.com/in/antoniolt-neto/
